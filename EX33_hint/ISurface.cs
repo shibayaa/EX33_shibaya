@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace EX33_hint
+namespace EX33
 {
     interface ISurface
     {
